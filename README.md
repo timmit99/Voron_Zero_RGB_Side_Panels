@@ -5,6 +5,13 @@
 
 ![alt text](/Images/LED_Panel-Installed.jpg)
 
+
+I've published the files also over on PCBWays project site!
+https://www.pcbway.com/project/shareproject/Voron_Zero_Side_Panel___Left.html
+
+https://www.pcbway.com/project/shareproject/Voron_Zero_Side_Panel___Right.html
+
+### Build steps
 1) Order set of PCB's.
 2) Order 32 5050 RGB/RGBW LED's.
 3) Print replacement panel clips.
