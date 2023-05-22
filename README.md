@@ -3,7 +3,7 @@
  
  ### The build below has some [3mm TAP Plastic black LED acrylic](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/black_led_sheet/668) installed INSIDE the frame extrusions to diffuse the LEDs. They are cut per the [DXF](/CAD/diffuserPanel.dxf) and the [PDF](/CAD/diffuserPanel.pdf) in the CAD folder. 
  
- #### NOTE: The notched corners are intended to go int he front corners to allow the panel to clear the bottom blind joint. My prefernce is to have the matte finish towards the inside of the printer as the glossy side is easy to scratch and scratches are very visible.
+ #### NOTE: The notched corners are intended to go in the front corners to allow the panel to clear the bottom blind joint. My prefernce is to have the matte finish towards the inside of the printer as the glossy side is easy to scratch and scratches are very visible.
 ![alt text](/Images/LED_Panel-Installed.jpg)
 
 
